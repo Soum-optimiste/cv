@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\DEVESSAI"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DV"
+	}
+}

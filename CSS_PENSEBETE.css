@@ -1,0 +1,36 @@
+/*CSS POUR MA PAGE CONTACT*/
+   /* POUR L4IMAGE DE FOND
+/*
+backgroun-image:url()
+background-attachment: fixed;
+background-size: cover;
+background-repeat: inherit;
+ON PEUT FAITRE CE-CI
+
+*/
+
+/* PADDING: Val 1 val2 val3 val 4, nous avons val1 top , val 2 right ect.
+.menuBarre
+
+
+/* Avec text-transform et ses propriétés(uppercase,lowercase,capitalize,none
+
+AVEC le font-variant et ses propriétés( small-caps, normal
+
+
+*/
+
+            /*********************************/
+
+/* line-height et letter-spacing pour la distance entre les lettres et la distance entre les lignes*/
+
+
+
+/* pour un label ou input, avec resize on peut decider que personne ne puisse modifier le champ*/
+
+#sdfsq{
+   line-height:normal ;
+   
+}
+ 
+ 
