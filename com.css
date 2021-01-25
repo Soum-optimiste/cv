@@ -33,9 +33,14 @@ h1{
    /*letter-spacing: 1px;: espace entre les lettres*/
    
 }
-h2{
+#mesTitres{
    font-size:1.3em ;
    color : #324151;
+}
+}
+h2{
+   font-size:1.3em ;
+   
 }
 #contenantFooter{ 
    background-color: #FF5A6D;
