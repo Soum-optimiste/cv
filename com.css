@@ -223,6 +223,7 @@ form button{
    }
    #enteteNav a{
       padding: 0 10px;
+      padding-left: 70px
    }
    #enteteNav ul{
       flex-direction:row ;
