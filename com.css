@@ -20,6 +20,7 @@
    display: grid;
    grid-template-columns: 80px  1fr 100px;
    margin-right: 40px;
+   z-index: 999;
 }
 h1{
    font-family: 'farsan';
